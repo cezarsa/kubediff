@@ -1,4 +1,4 @@
 attrs
-pyyaml
+pyyaml>=4.2b2
 tabulate
 future
